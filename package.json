@@ -12,6 +12,7 @@
   "dependencies": {
     "@farcaster/auth-client": "^0.3.0",
     "@farcaster/frame-node": "^0.0.13",
+    "@farcaster/frame-core": "^0.0.24",
     "@farcaster/frame-sdk": "^0.0.26",
     "@frames.js/debugger": "^0.4.3",
     "@t3-oss/env-nextjs": "^0.12.0",
